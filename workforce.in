@@ -1,5 +1,0 @@
-#!/bin/bash
-
-if ( a=1 )
-	then
-	print "ohs"
